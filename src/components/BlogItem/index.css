@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.blog-item {
+  width: 100%;
+  border-bottom: 1px solid #e7e5ea;
+  list-style-type: none;
+}
+.blogs-details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.heading {
+  font-weight: bold;
+  font-size: 18px;
+  font-style: normal;
+  color: #12022f;
+}
+.description {
+  font-weight: bold;
+  font-size: 16px;
+  font-weight: roboto;
+  font-style: normal;
+  color: #12022f;
+}
+.date {
+  font-weight: bold;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  color: #9aa5b1;
+}
